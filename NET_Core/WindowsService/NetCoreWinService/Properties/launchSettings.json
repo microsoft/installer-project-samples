@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InstPrj_NetCoreWinService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

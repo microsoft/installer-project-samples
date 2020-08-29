@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30028.100
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWinService", "NetCoreWinService\NetCoreWinService.csproj", "{FD34C98C-BE9D-421D-AA14-3CCC9A8CABA8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_NetCoreWinService", "Setup_NetCoreWinService\Setup_NetCoreWinService.vdproj", "{4F979C69-79B7-4057-8D38-9339A994A6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD34C98C-BE9D-421D-AA14-3CCC9A8CABA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD34C98C-BE9D-421D-AA14-3CCC9A8CABA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD34C98C-BE9D-421D-AA14-3CCC9A8CABA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD34C98C-BE9D-421D-AA14-3CCC9A8CABA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F979C69-79B7-4057-8D38-9339A994A6EE}.Debug|Any CPU.ActiveCfg = Debug
+		{4F979C69-79B7-4057-8D38-9339A994A6EE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB2FC3D-68E5-4173-94BD-925557BC7440}
+	EndGlobalSection
+EndGlobal
