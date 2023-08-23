@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Worker">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <UserSecretsId>dotnet-InstPrj_NetCoreWinService-46921CBA-C574-4093-87CD-82313C94D1FE</UserSecretsId>
   </PropertyGroup>
 
