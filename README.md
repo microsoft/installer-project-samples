@@ -1,6 +1,6 @@
 Samples for Visual Studio Installer Projects.
 
-[Extension Homepage](https://marketplace.visualstudio.com/items?itemName=visualstudioclient.MicrosoftVisualStudio2017InstallerProjects/)
+[Extension Homepage](https://marketplace.visualstudio.com/items?itemName=visualstudioclient.MicrosoftVisualStudio2017InstallerProjects)
 
 # Contributing
 
